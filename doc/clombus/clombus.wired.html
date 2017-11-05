@@ -33,8 +33,9 @@ Default address is 0xfd, the placeholder for selected slaves.
 
 Returns
 
-  ::success
-    If the operation is successful.
+  variable data structure
+    Response from the slave, map of various data.
+    Cf. `clombus.interop/variable-data-structure`
   
   ::timeout
     If the slave did not answer within the timeout.
@@ -146,7 +147,7 @@ Throws
 Cf. `selected`</pre></div></div><div class="public anchor" id="var-status"><h3>status</h3><div class="usage"><code>(status access-point)</code></div><div class="doc"><pre class="plaintext">Gets the current status of the access point.
 </pre></div></div></div></div></div><div class="public anchor" id="var-open"><h3>open</h3><div class="usage"><code>(open path)</code><code>(open path {:as ?config, :keys [baud-rate timeout], :or {baud-rate 2400, timeout 500}})</code></div><div class="doc"><pre class="plaintext">Opens an M-Buss access point on the given path to the serial port.
 
-The configuration map may contains :
+The configuration map may contain :
 
     :baud-rate
       A preferably standard baud rate.
