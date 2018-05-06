@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"io.dvlopt.linux.errno","l":"Errno"}]
