@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"io.dvlopt.linux","l":"Linux"},{"p":"io.dvlopt.linux","l":"LinuxException"},{"p":"io.dvlopt.linux","l":"SizeT"},{"p":"io.dvlopt.linux","l":"SSizeT"}]
