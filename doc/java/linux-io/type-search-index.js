@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"io.dvlopt.linux.io","l":"LinuxIO"}]
