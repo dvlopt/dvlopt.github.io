@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"io.dvlopt.linux.epoll","l":"Epoll"},{"p":"io.dvlopt.linux.epoll","l":"EpollDataType"},{"p":"io.dvlopt.linux.epoll","l":"EpollEvent"},{"p":"io.dvlopt.linux.epoll","l":"EpollEvents"},{"p":"io.dvlopt.linux.epoll.internal","l":"NativeEpollData"},{"p":"io.dvlopt.linux.epoll.internal","l":"NativeEpollEvent"}]
